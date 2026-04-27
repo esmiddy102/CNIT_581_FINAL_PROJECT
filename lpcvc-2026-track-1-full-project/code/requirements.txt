@@ -1,0 +1,13 @@
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+onnx>=1.16
+onnxruntime>=1.18
+onnxconverter-common>=1.14
+qai_hub
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+Pillow>=10.0
+tqdm>=4.66
+pyyaml>=6.0
